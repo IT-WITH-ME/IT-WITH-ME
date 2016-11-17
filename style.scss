@@ -20,6 +20,9 @@ html {
 body {
 	background: url("https://www.pmcdeadline2.files.wordpress.com/2016/02/deadpool-1.jpg");
   	background-repeat: no-repeat;
+  	background-position: top left;
+  	background-attachment: fixed;
+  
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
@@ -29,7 +32,6 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: #8c8c8c
 }
 
 h1, h2, h3, h4, h5, h6 {
