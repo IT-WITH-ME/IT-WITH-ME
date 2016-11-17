@@ -19,6 +19,7 @@ html {
 
 body {
 	background: url("http://www.screencrush.com/442/files/2016/02/deadpool-2-boyfriend-pic.jpg");
+  	background-repeat: no-repeat;
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
@@ -28,8 +29,6 @@ body {
   max-width: 740px;
   padding: 9 10px;
   width: 100%;
-  opacity: 0.5;
-	filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 h1, h2, h3, h4, h5, h6 {
