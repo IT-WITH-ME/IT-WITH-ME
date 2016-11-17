@@ -28,6 +28,8 @@ body {
   max-width: 740px;
   padding: 9 10px;
   width: 100%;
+  opacity: 0.5;
+	filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 h1, h2, h3, h4, h5, h6 {
