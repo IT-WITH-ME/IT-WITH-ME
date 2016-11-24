@@ -8,5 +8,6 @@ published: true
 ---
 **15th September**
 
-Hi, today we learnt how to use a 'Fuse Box' but not an electrical one but a Computer one instead. My partner and I weren’t very successful and failed to complete the exercises. Though it was still fun. Bye.
+Hi, today we learnt how to use a 'Fuse Box' but not an electrical one but a Computer one instead. My partner and I weren’t very successful and failed to complete the exercises. Though we kept trying and got some stuff done but sadly we didn't have a memory stick so we have lost all our code. :(
 
+Nick signing off, bye
