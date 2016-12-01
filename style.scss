@@ -28,12 +28,11 @@ body {
 }
 
 .container {
-  <div class="w3-container w3-grey">
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-}
+  color: $grey}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
