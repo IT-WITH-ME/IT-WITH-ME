@@ -70,8 +70,6 @@ Hi guys, today Seb and I managed to make Spongebob yay it looked a bit like this
   <li id="next"><a href="css_syntax.asp"></a></li>
 </ul>
 
-</body>
-</html>({{ site.url }}/public/opUjLzlVOI8EhkFIEGUsVw_img_0.png)
 
 Nah I'm just kidding it looked more like two badly drawn eyes on a yellow cube. But we were still chuffed we managed to do that much. Over than that not much happened except Seb fell of his chair which was so funny. But yeah that’s about all that happened today
 
