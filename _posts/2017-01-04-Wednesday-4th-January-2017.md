@@ -2,14 +2,14 @@
 title: Wednesday 4th January 2017
 layout: post
 author: nick.vyse
-permalink: /wednesday-4th-january-2017/
+permalink: /Thursday-5th-january-2017/
 source-id: 1KosDz8Dr_6Yaoqm_DNW20mpwIeMD-yMFLcxbGofKXQs
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Wednesday 4th January 2017</td>
+    <td>Thursday 5th January 2017</td>
     <td>Date</td>
     <td>4/1/17</td>
   </tr>
