@@ -1,5 +1,5 @@
 ---
-title: Wednesday 4th January 2017
+title: Thursday 5th January 2017
 layout: post
 author: nick.vyse
 permalink: /Thursday-5th-january-2017/
