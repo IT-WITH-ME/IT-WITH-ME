@@ -13,8 +13,19 @@
 /* BASE RULES */
 /**************/
 table, th, td {
-    border: 1px solid #EAC67A ;
+	border: 1px;
+	border-color: #EAC67A;
 }
+
+th, td {
+	padding: 5px;
+}
+
+th {
+	text-align: left;
+}
+
+
 
 html {
   font-size: 100%;
