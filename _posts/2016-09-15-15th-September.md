@@ -2,7 +2,7 @@
 title: Thursday 15th September
 layout: post
 author: nick.vyse
-permalink: /15th-september/
+permalink: /thursday-15th-september/
 source-id: 1SrnKc0Q7VMG9a5_FZ662MoPS0WLIihNlRGqmJAgmXpk
 published: true
 ---
